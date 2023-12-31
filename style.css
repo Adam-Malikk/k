@@ -263,6 +263,10 @@ h3, h2{
   .img8{background-image: url(Asset/we10.jpg);}
   .img9{background-image: url(Asset/we9.jpg);}
   .img10{background-image: url(Asset/we8.jpg);}
+  .img11{
+    background-color: black;
+    height: 25%;
+  }
 
   .bg-text{
     background-color: rgb(0, 0, 0);
@@ -281,3 +285,71 @@ h3, h2{
     padding: 20px;
     text-align: center;
   }
+
+  #kiran15{
+
+  }
+
+  #kiran13{
+
+  }
+
+  #kiran14{
+
+  }
+
+  #kiran8{
+
+  }
+
+  #kiran15:hover{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #Kiran13:hover{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #Kiran14:hover{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #Kiran8:hover{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+.button a{
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  padding: 20% 20%;
+}
+
+.button{
+ margin-left:35.5%;
+ margin-top: 6%;
+ background-color: transparent;
+ border: 1px solid white;
+ border-radius: 20%;
+ font-family: 'Mochiy Pop One', sans-serif;
+ width: 30%;
+ height: 20%;
+}
+
+.button:hover {
+  background: linear-gradient(90deg, #33ccff, #4d4dff);
+}
